@@ -12,6 +12,6 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-<span sytle="text-align:center;">
+<div style="text-align:center">
 If you have an interesting project [consider sponsoring me](https://github.com/sponsors/HyperEntangledQubit)
-</span>
+</div>
