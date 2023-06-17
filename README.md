@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-If you found anything that I built useful for you or your company, [consider sponsoring me](https://github.com/sponsors/driesvints)
+If you have an interesting project [consider sponsoring me](https://github.com/sponsors/HyperEntangledQubit)
 </p>
